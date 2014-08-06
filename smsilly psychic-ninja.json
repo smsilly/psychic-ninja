@@ -1,0 +1,12 @@
+{
+  "nonInheritedLabels": [
+    "status."
+    "new."
+  ],
+  "openStatusLabels": [
+    "status.open"
+  ],
+  "closedStatusLabels": [
+    "status.closed"
+  ]
+}
