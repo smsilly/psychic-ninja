@@ -5,8 +5,11 @@
   ],
   "openStatusLabels": [
     "status.open"
+    "status.new"
   ],
   "closedStatusLabels": [
     "status.closed"
+    "status.done"
+    "status.fixed"
   ]
 }
