@@ -1,12 +1,10 @@
 {
   "nonInheritedLabels": [
     "status."
-    "new."
-    "repofile."
   ],
   "openStatusLabels": [
     "status.open"
-    "status.new"
+    "status.repo"
   ],
   "closedStatusLabels": [
     "status.closed"
