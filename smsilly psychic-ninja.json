@@ -2,6 +2,7 @@
   "nonInheritedLabels": [
     "status."
     "new."
+    "repofile."
   ],
   "openStatusLabels": [
     "status.open"
